@@ -10004,3 +10004,14 @@ h3 {
     border-color: #dee2e6;
   }
 }
+
+.dot {
+  height: 25px;
+  width: 25px;
+  padding-left: 9px;
+  line-height: 27px;
+  background-color: rgb(26, 55, 185);
+  border-radius: 50%;
+  color: #fff;
+  display: inline-block;
+}
